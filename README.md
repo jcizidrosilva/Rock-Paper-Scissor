@@ -1,2 +1,4 @@
 # Rock Paper Scissor
- Leraning a bit more about Python
+ Learning a bit more about Python. Let's play Rock, Paper, Scissors
+ 
+ https://replit.com/@SilvaJC84/Rock-Paper-Scissors?v=1
